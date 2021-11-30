@@ -1,7 +1,7 @@
 import { useRecoilState } from "recoil";
 import { currentTrackIDState, isPlayingState } from "../atoms/songAtom";
 import useSpotify from "../hooks/useSpotify";
-import { millisToMinutesAndSeconds } from "../lib/Time";
+import { millisToMinutesAndSeconds } from "../lib/time";
 
 const Song = ({ track, order }) => {
   const spotifyApi = useSpotify();
