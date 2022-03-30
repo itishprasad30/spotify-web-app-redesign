@@ -1,5 +1,7 @@
 # I made a spotify Redesign app.
-### TechStack Used In this Project
+### TechStack Used In this Project 
+
+> Note play back features works on only premium membership
 
  1. Next JS
  2. Tailwind Css
@@ -13,7 +15,8 @@
 
 # Here is the login Page:
 
- <img src="https://lh3.googleusercontent.com/qZ1xBmofol-4qhuXeB5GMGn3m9OmnhuNHIYKOIRDP9ShUPhFuymw-Q-u5H2DglNDgHXei4tTSJTN5Uzc9BTpWB-3toMfWf0U7LBCtg04HVnTZfwmpkuiptOtD1Oit68X4AHPYJtVjWnV4hb9e9oi7h1KsXxg2AOKKGYfU0YskDK3t_YMSWcpBfqKPgsN2-m4NC-8UVnU-0w9ySNSIL_yoSPoFzlqWEi6rJiVP_QHSzWE2n_o_kosYT_4JK8hzVsnVTAUpeJgidTn5jihAPiN-NW1mO9m5aMxcp3XAzgG-ITXMNwMJASaqF2lRi6FXE-lNo-LlZ9AchUOD5hlsSRiMTRWTLm4tkWxDuO4W19Pl0u1JUtR47IeyibvHJ12AetNkSbOYRaX7PncmfmCsiaTs5QK1TsWcCwkVy4cx7AbBj6_wF6cC28NW6MK6r-Qt2qvIwRxBKLdkTr0zHE7gE_J-_MWNG4XU3HmycCbMJJEN10rvGPeiYDioQXLD7IWhDtXLTFu2y7sCILSQur5j3x4k5DrzZBNfpxbjA8hf0eTI6rHVuqknmv4n0B7G1zhksKhWavc6S21AOyDeHIINBZfJi4S3EB05RiK1-aykwxk7G3u1PtizuIrG4wC7PP_J5WwY5al-eYPnXdY9hRIV3dzdZoap-hdj2wH_QJf1nslpEXln87SsDndtlF9BWIGrO25-JSchdqEc6s66y_XkbO1PHdq=w1653-h893-no?authuser=0" alt="o" style="height: 720px; width:1080px;"/>
+ <img src="https://lh3.googleusercontent.com/qZ1xBmofo
+l-4qhuXeB5GMGn3m9OmnhuNHIYKOIRDP9ShUPhFuymw-Q-u5H2DglNDgHXei4tTSJTN5Uzc9BTpWB-3toMfWf0U7LBCtg04HVnTZfwmpkuiptOtD1Oit68X4AHPYJtVjWnV4hb9e9oi7h1KsXxg2AOKKGYfU0YskDK3t_YMSWcpBfqKPgsN2-m4NC-8UVnU-0w9ySNSIL_yoSPoFzlqWEi6rJiVP_QHSzWE2n_o_kosYT_4JK8hzVsnVTAUpeJgidTn5jihAPiN-NW1mO9m5aMxcp3XAzgG-ITXMNwMJASaqF2lRi6FXE-lNo-LlZ9AchUOD5hlsSRiMTRWTLm4tkWxDuO4W19Pl0u1JUtR47IeyibvHJ12AetNkSbOYRaX7PncmfmCsiaTs5QK1TsWcCwkVy4cx7AbBj6_wF6cC28NW6MK6r-Qt2qvIwRxBKLdkTr0zHE7gE_J-_MWNG4XU3HmycCbMJJEN10rvGPeiYDioQXLD7IWhDtXLTFu2y7sCILSQur5j3x4k5DrzZBNfpxbjA8hf0eTI6rHVuqknmv4n0B7G1zhksKhWavc6S21AOyDeHIINBZfJi4S3EB05RiK1-aykwxk7G3u1PtizuIrG4wC7PP_J5WwY5al-eYPnXdY9hRIV3dzdZoap-hdj2wH_QJf1nslpEXln87SsDndtlF9BWIGrO25-JSchdqEc6s66y_XkbO1PHdq=w1653-h893-no?authuser=0" alt="o" style="height: 720px; width:1080px;"/>
 
 
 # Home page
