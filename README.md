@@ -1,4 +1,5 @@
-# I made a spotify Redesign app.
+#  spotify Redesign app [using spotify build in api ] 
+## the main foucs is to how to collect data from api and redesign this app .
 ### TechStack Used In this Project 
 
 > Note play back features works on only premium membership
@@ -29,5 +30,5 @@ l-4qhuXeB5GMGn3m9OmnhuNHIYKOIRDP9ShUPhFuymw-Q-u5H2DglNDgHXei4tTSJTN5Uzc9BTpWB-3t
 
 [Click This Link To Try Demo ](spotify-web-app-redesign.vercel.appspotify-web-app-redesign.vercel.app)
 
- - Note : to control the music playback required primium user of SPotify.
+ - Note : to control the music playback required premium user of Spotify.
  -  This app is control used via Remote ,so before you have to run the main spotify app them reload the this app.
