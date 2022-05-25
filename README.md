@@ -1,4 +1,5 @@
 #  spotify Redesign app [using spotify build in api ] 
+## in the spotify developer profile
 ## the main foucs is to how to collect data from api and redesign this app .
 ### TechStack Used In this Project 
 
